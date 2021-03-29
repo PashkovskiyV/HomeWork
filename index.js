@@ -23,6 +23,7 @@ switch (userAge % 10) {
 }
 
 
+
 /*
 1. false && true || true;    // true; false && true дает результат false, false || true - получаем true (по приоритету выполнения).
 2. false && (true || true);  // false; (true || true) дает результат true, false && true - получаем false (по приоритету выполнения).
